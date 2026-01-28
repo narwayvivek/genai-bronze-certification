@@ -1,0 +1,11 @@
+Age,AnnualIncome,CreditScore,LoanAmount,LoanTerm,EmploymentType,Default
+28,6.5,720,5,5,Salaried,0
+45,12.0,680,10,10,Self-Employed,1
+35,8.2,750,7,7,Salaried,0
+52,15.0,650,12,15,Self-Employed,1
+31,7.8,710,6,5,Salaried,0
+40,10.5,690,8,10,Salaried,1
+29,6.8,730,4,5,Salaried,0
+48,13.2,670,11,12,Self-Employed,1
+33,9.1,740,7,7,Salaried,0
+41,11.0,700,9,10,Salaried,0
